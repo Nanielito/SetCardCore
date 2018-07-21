@@ -1,0 +1,2 @@
+# SetCardCore
+SetCard application core
